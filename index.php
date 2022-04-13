@@ -369,10 +369,7 @@
                     </div>
                 </div>
 
-                <div class="row" style="text-align: center">
-                    <p style="color: black; text-align: center; font-size: 15px">Developed By: 
-                        <a href="https://www.linkedin.com/in/thesanjayboga/" rel="noopener noreferrer" target="_blank">Sanjay Boga</a></p>
-                </div>
+                
             </footer>
         </div>
         
